@@ -1,0 +1,220 @@
+{
+  "pdf": {
+    "pages": "auto",
+    "paper": "a4",
+    "exclude": [],
+    "template": "ats",
+    "includeVisual": false
+  },
+  "theme": {
+    "mode": "light",
+    "vars": {
+      "dark": {},
+      "light": {},
+      "common": {}
+    },
+    "fonts": {},
+    "preset": "minimal-light",
+    "variation": "standard",
+    "customThemes": [],
+    "iconAnimation": "lift"
+  },
+  "skills": [
+    {
+      "icon": "",
+      "items": [
+        "Internal Controls and Risk Management"
+      ],
+      "category": "Financial Accounting and Reporting"
+    },
+    {
+      "icon": "",
+      "items": [
+        "Audit & Assurance (Statutory, Tax, Internal)"
+      ],
+      "category": "Financial Process Optimization"
+    },
+    {
+      "icon": "",
+      "items": [
+        "Taxation and Regulatory Compliance"
+      ],
+      "category": "Intercompany Reconciliation"
+    },
+    {
+      "icon": "",
+      "items": [
+        "Oracle FCCS (Hyperion)",
+        "Tally ERP",
+        "MS Office",
+        "Quick Books",
+        "Zoho"
+      ],
+      "category": "Financial Software & Systems"
+    },
+    {
+      "icon": "",
+      "items": [
+        "Oracle"
+      ],
+      "category": "ERP Systems"
+    },
+    {
+      "icon": "",
+      "items": [
+        "Collaborator",
+        "Analytical Problem-Solving",
+        "Communicator"
+      ],
+      "category": "Soft Skills"
+    }
+  ],
+  "profile": {
+    "name": "MALLIKARJUNA KOPPALA",
+    "about": [
+      "Chartered Accountant with over 3 years of experience in financial reporting, financial statement preparation, consolidation, audit and regulatory compliance. Proven expertise in preparing standalone and consolidated financial statements under Ind AS, managing accounting operations, and ensuring the accuracy and integrity of financial data. Proficient in Oracle FCCS (Hyperion) and financial reporting systems, with a strong ability to streamline processes, strengthen internal controls, and deliver actionable insights to"
+    ],
+    "email": "mallikharjuna8.8@gmail.com",
+    "links": [
+      {
+        "url": "https://linkedin.com/in/koppala-mallikarjuna-reddy-05912283",
+        "icon": "linkedin",
+        "label": "LinkedIn"
+      }
+    ],
+    "phone": "+91 7093523048",
+    "photo": {
+      "alt": "",
+      "src": ""
+    },
+    "title": "CA",
+    "status": "Open to new roles",
+    "ogImage": {
+      "alt": "",
+      "src": ""
+    },
+    "siteUrl": "",
+    "tagline": "Chartered Accountant with over 3 years of experience in financial reporting, financial statement preparation, consolidation, audit and regulatory compliance.",
+    "location": "Hyderabad, Telangana",
+    "brandIcon": "",
+    "resumeUrl": "assets/mallikarjuna-koppala-resume-8e2f5d2b.pdf",
+    "shortName": "MALLIKARJUNA",
+    "resumeMode": "generated",
+    "resumeName": "",
+    "yearsRounding": "",
+    "experienceYears": ""
+  },
+  "projects": [],
+  "sections": [
+    {
+      "id": "personal-details",
+      "blurb": "",
+      "items": [
+        {
+          "body": "English, Telugu, Hindi, Kannada",
+          "icon": "",
+          "meta": "",
+          "tags": [],
+          "image": {
+            "alt": "",
+            "src": ""
+          },
+          "links": [],
+          "title": "Languages Known",
+          "value": "",
+          "bullets": [],
+          "subtitle": ""
+        },
+        {
+          "body": "14, Sai Baba Nagar Colony, Phase 1, Prakash Nagar, Sangeeth Nagar, Kukatpally, Hyderabad, Telangana – 500072",
+          "icon": "",
+          "meta": "",
+          "tags": [],
+          "image": {
+            "alt": "",
+            "src": ""
+          },
+          "links": [],
+          "title": "Address",
+          "value": "",
+          "bullets": [],
+          "subtitle": ""
+        }
+      ],
+      "title": "Personal Details",
+      "layout": "prose",
+      "eyebrow": "",
+      "altBackground": false
+    }
+  ],
+  "template": {
+    "look": "executive-dossier",
+    "pack": "product-program",
+    "skeleton": "executive-dossier"
+  },
+  "education": [
+    {
+      "degree": "Chartered Accountancy",
+      "detail": "",
+      "endYear": "2023",
+      "startYear": "",
+      "institution": "The Institute of Chartered Accountants of India, (51%)"
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-1",
+      "role": "Assistant Manager",
+      "tech": [],
+      "company": "Aurobindo Pharma Limited",
+      "endDate": null,
+      "summary": "",
+      "location": "Hyderabad",
+      "startDate": "2023-12",
+      "highlights": [
+        "Led the preparation and finalization of annual and interim standalone and consolidated financial statements, including consolidated cash flow statements and notes to accounts, for a group of 90 entities across multiple geographies and currencies, ensuring compliance with Ind AS and IFRS, accuracy of disclosures, and timely delivery of high-quality financial reporting.",
+        "Managed intercompany reconciliations and consolidation adjustments, including elimination entries, GAAP adjustments, stock reserve calculations, and unrealized profit eliminations, ensuring accuracy, consistency, and compliance in consolidated financial reporting.",
+        "Managed the review of standalone financial statements across domestic and international entities, including FCTR assessments and lease accounting under Ind AS 116, involving evaluation of lease agreements, recognition of right-of-use (ROU) assets and lease liabilities, and related financial disclosures, ensuring compliance with Ind AS, GAAP, and Group Accounting Policies.",
+        "Managed accounting and reporting for investments in joint ventures, associates, and business combinations under Ind AS 28 and Ind AS 103, including equity method accounting, non-controlling interest calculations, goodwill/capital reserve recognition, changes in ownership interests, and related consolidation adjustments to ensure accurate group financial reporting.",
+        "Managed SEBI-compliant Related Party Transaction (RPT) reporting and delivered Capex, Sales EBITDA, and Right-of-Use (ROU) analytics and reports, supporting regulatory compliance, financial performance monitoring, and audit requirements.",
+        "Managed quarterly consolidated MIS reporting at the group level, delivering variance analysis, management commentary, and key financial insights to senior leadership through effective coordination with multiple business units.",
+        "Managed end-to-end statutory and special audits, partnering with Big 4 auditors and cross-functional teams to deliver timely audit closures, resolve complex accounting and reporting queries, and ensure compliance with regulatory and financial reporting standards.",
+        "Played a key role in the successful implementation of Oracle FCCS (Hyperion), automating the consolidation and financial reporting process, reducing manual intervention, and improving report efficiency and accuracy.",
+        "Prepared consolidated and sub-consolidated financial statements, including the impact of business combinations under common control, to support accurate financial reporting and geography-wise performance analysis."
+      ]
+    },
+    {
+      "id": "exp-4",
+      "role": "Article Assistant",
+      "tech": [],
+      "company": "Phillipos & Co., Chartered Accountants",
+      "endDate": "2022-07",
+      "summary": "",
+      "location": "Bangalore",
+      "startDate": "2019-07",
+      "highlights": [
+        "Responsible for timely completion of statutory audits and issuance of audit reports for companies, LLPs, firms, charitable organizations, and proprietorship businesses.",
+        "Prepared direct tax compliances, including income tax computations, return filings, and tax audit reporting for corporate and NGO clients in accordance with applicable tax laws and regulations.",
+        "Preparation and filing of GST Annual Returns (GSTR 9 & 9C) and Form 15CA & 15CB for private limited companies, NGOs, and partnership firms."
+      ]
+    }
+  ],
+  "sectionOrder": [
+    "about",
+    "experience",
+    "projects",
+    "certifications",
+    "education",
+    "skills"
+  ],
+  "sectionLabels": {
+    "about": "Profile",
+    "skills": "Areas of expertise",
+    "projects": "Selected case studies",
+    "education": "Education",
+    "experience": "Career",
+    "certifications": "Credentials"
+  },
+  "certifications": [],
+  "hiddenSections": []
+}
